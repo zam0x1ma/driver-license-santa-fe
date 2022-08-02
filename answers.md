@@ -3,28 +3,23 @@
 
 - ¿Qué significa esta señal?
 <br/>
-<br/>
-<img src="images/9010b8ac22c879652888e68ff5503570e24a3996.jpg" width="150px" />  
+<img src="images/9010b8ac22c879652888e68ff5503570e24a3996.jpg" width="150px">  
 **Incorporación de tránsito.**
 <br/>
 <br/>
-<br/>
-<img src="images/027b8890a45d74fa189dddace2be93bcdb608860.jpg" width="150px" />  
+<img src="images/027b8890a45d74fa189dddace2be93bcdb608860.jpg" width="150px">  
 **Prohibido adelantarse.**
 <br/>
 <br/>
-<br/>
-<img src="images/7397a50e0c74821029f1e2a274cbf169fe1cdbdd.jpg" width="150px" />  
+<img src="images/7397a50e0c74821029f1e2a274cbf169fe1cdbdd.jpg" width="150px">  
 **Vía de doble circulación.**
 <br/>
 <br/>
-<br/>
-<img src="images/5e68f7b09c983b5b89463df29e5a79870453b008.jpg" width="150px" />  
+<img src="images/5e68f7b09c983b5b89463df29e5a79870453b008.jpg" width="150px">  
 **Ancho máximo permitido.**
 <br/>
 <br/>
-<br/>
-<img src="images/7ec7b8779865c78dc5d1431c16ef04c6173be64e.jpg" width="150px" />  
+<img src="images/7ec7b8779865c78dc5d1431c16ef04c6173be64e.jpg" width="150px">  
 **Obras.**
 
 - ¿Cuándo se produce el "efecto túnel", es decir la reducción del campo visual en la conducción?  
