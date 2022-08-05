@@ -1,6 +1,3 @@
-- La licencia de conducir debe contener obligatoriamente los siguientes datos:  
-**Nombre y apellido completo, clase de licencia, número de documento y fecha de vencimiento.**
-
 - ¿Qué significa esta señal?
 
 | Señal        | Significado  |
@@ -14,6 +11,13 @@
 | <img src="images/91fd9c61e39d71dbe7b5cba32c27cc7128de62b4.jpg" width="150px"> | Zona de derrumbe. |
 | <img src="images/a95c2d71610bc718f59f87c0095a5789c704bc92.jpg" width="150px"> | Cruce de varias vías férreas. Paso a nivel peligroso. |
 | <img src="images/5c70c054b506ab4f074b20a59be8e3ee87518603.jpg" width="150px"> | Proximidad de semáforo. |
+| <img src="images/4b25c7e576a8dbf20720e1f588b97c814ff8fc76.jpg" width="150px"> | Inicio/Fin de camino dividido. |
+| <img src="images/b8351b6c8f3025f5c61461c4ce0706ecb6cdeade.jpg" width="150px"> | Prohibido circular peatones. |
+| <img src="images/a8a964f043ff46470006e846bad8d689007764d8.jpg" width="150px"> | Elevación transversal lomo de burro. |
+| <img src="images/e9565f4b53a6d2e917a8e55d0145589db1ef0aa5.jpg" width="150px"> | Sentido de circulación obligatoria. |
+
+- La licencia de conducir debe contener obligatoriamente los siguientes datos:  
+**Nombre y apellido completo, clase de licencia, número de documento y fecha de vencimiento.**
 
 - ¿Cuándo se produce el "efecto túnel", es decir la reducción del campo visual en la conducción?  
 **Al aumentar la velocidad.**
@@ -95,3 +99,48 @@
 
 - ¿Qué elemento contra incendios es reglamentario para automóviles?  
 **Matafuegos de 1 kilogramo mínimo con indicador de presión de carga.**
+
+- ¿Qué actitud se debe tomar en caso de niebla?  
+**Disminuir la velocidad, encender las luces bajas o antiniebla, y no detenerse.**
+
+- ¿Qué características deben tener los faros delanteros de un vehículo?  
+**Luz blanca o amarilla en no más de dos pares, con alta y baja, ésta de proyección asimétrica.**
+
+- ¿Son obligatorios los dispositivos de protección contra encandilamiento solar, corte rápido de energía y sistema motriz de retroceso?  
+**Sí, en todos los casos.**
+
+- ¿Qué identifica la Cruz de San Andrés?  
+**Cruce ferroviario.**
+
+- Las alteraciones más importantes producidas por la somnolencia y que afectan la conducción son:  
+**La alteración de las funciones sensoriales, de la percepción, una menor concentración y más distracciones, toma de decisiones más lenta y más errores.**
+
+- ¿Qué características deben tener las luces de freno traseras?  
+**De color rojo, encenderán al accionarse el mando de frenos antes de actuar éste.**
+
+- En el vehículo que usted conduce va a viajar como pasajero su hijo de 2 años; está permitido que lo haga en el asiento trasero?  
+**Sí, pero se debe utilizar una silla o dispositivo especial de retención infantil.**
+
+- ¿Qué debe hacer si extravía o le roban la chapa o placa patente?  
+**Realizar denuncia policial y el pedido de reposición al Registro de la Propiedad Automotor.**
+
+- ¿A qué se denomina carretón?  
+**El vehículo especial, cuya capacidad de carga, tanto en peso como en dimensiones, supera la de los vehículos convencionales.**
+
+- ¿De qué color deben ser las luces de giro de un vehículo?  
+**Intermitentes de color amarillo, delante y atrás.**
+
+- ¿Puede un conductor llevar a menores de 10 años en los asientos delanteros?  
+**No.**
+
+- La licencia habilitante clase B1, ¿incluye la posibilidad de conducir un motovehículo?  
+**No, es habilitante para conducir automóviles y pick-up hasta 3500kg.**
+
+- ¿Cuál es la manera menos peligrosa de trasladar un bebé en un automóvil?  
+**En sillas especialmente adaptadas con cinturón de seguridad, en el asiento trasero.**
+
+- Circulando en el ámbito de la ciudad, ¿es obligatorio llevar abrochado el cinturón de seguridad?  
+**Sí, siempre que el vehículo esté en circulación.**
+
+- ¿Qué tipo de defensas adicionales al paragolpes está permitido utilizar en una pick-up?  
+**No está permitido utilizar defensas.**
