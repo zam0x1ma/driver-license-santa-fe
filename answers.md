@@ -15,6 +15,7 @@
 | <img src="images/b8351b6c8f3025f5c61461c4ce0706ecb6cdeade.jpg" width="150px"> | Prohibido circular peatones. |
 | <img src="images/a8a964f043ff46470006e846bad8d689007764d8.jpg" width="150px"> | Elevación transversal lomo de burro. |
 | <img src="images/e9565f4b53a6d2e917a8e55d0145589db1ef0aa5.jpg" width="150px"> | Sentido de circulación obligatoria. |
+| <img src="images/ab5160a5e4a93e65c87f0cbef0f6628e2e086b91.jpg" width="150px"> | Camino lateral. |
 
 - La licencia de conducir debe contener obligatoriamente los siguientes datos:  
 **Nombre y apellido completo, clase de licencia, número de documento y fecha de vencimiento.**
@@ -144,3 +145,27 @@
 
 - ¿Qué tipo de defensas adicionales al paragolpes está permitido utilizar en una pick-up?  
 **No está permitido utilizar defensas.**
+
+- ¿A qué se denomina banquina?  
+**La zona de la vía contigua a una calzada pavimentada, de un ancho de hasta tres metros, si no está delimitada.**
+
+- En una rotonda ¿quién tiene la prioridad de paso?  
+**Quien gira por sobre el conductor que quiere ingresar, por más que este último tenga la derecha.**
+
+- Si una bicicleta viene circulando por la derecha, ¿tiene prioridad de paso, en un cruce de calles, como sucede con los automóviles?  
+**No, las bicicletas, al igual que cualquier vehículo de tracción a sangre o cuando se conduzcan animales, no tienen prioridad de paso en las encrucijadas aunque circulen por la derecha.**
+
+- El conductor que estaciona y desciende del vehículo ¿Puede caminar por la calzada?  
+**Alrededor de su vehículo.**
+
+- ¿De qué color debe ser la luz de retroceso?  
+**Blanca.**
+
+- Según la Ley Nacional Nº 24.449, cuál es el límite mínimo de velocidad obligatorio para zona urbana y autopistas?  
+**La mitad del máximo fijado para cada tipo de vía.**
+
+- Si el titular de la Licencia de Conducir cambia su domicilio real a otra localidad. ¿Cómo debe proceder?  
+**Tiene noventa (90) días para denunciar el nuevo domicilio y actualizar su licencia de conducir en la nueva localidad en que reside.**
+
+- ¿Es un requisito saber leer para obtener la licencia de conducir?  
+**Saber leer y para los conductores profesionales también escribir.**
